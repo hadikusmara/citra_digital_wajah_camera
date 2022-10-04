@@ -12,7 +12,8 @@
 - frameKiri = frame[0:hight, 0:int(width/4)]
 - frameKanan = frame[0:hight, int(width/4):width]
 
-run  pproject
+run  pproject 2022
 >> python  -u main.py
-coba nanti tampil mengunakan webcame
+- coba nanti tampil mengunakan webcame
+- jalanan main.py
 
